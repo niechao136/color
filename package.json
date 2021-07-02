@@ -1,0 +1,29 @@
+{
+  "name": "color",
+  "version": "1.0.0",
+  "description": "A dome how to use rollup.js",
+  "main": "index.js",
+  "browser": "dist/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niechao136/color.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niechao136/color/issues"
+  },
+  "homepage": "https://github.com/niechao136/color#readme",
+  "devDependencies": {
+    "rollup": "^2.52.7",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-typescript": "^1.0.1",
+    "tslib": "^2.3.0",
+    "typescript": "^4.3.5"
+  }
+}
